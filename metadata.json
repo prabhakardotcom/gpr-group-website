@@ -1,0 +1,6 @@
+{
+  "name": "GPR Group — Sovereign Enterprise",
+  "description": "Official corporate portal of GPR Group, a diversified conglomerate spanning healthcare education, hospitality, infrastructure, global growth services, and strategic capital in Hyderabad.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
